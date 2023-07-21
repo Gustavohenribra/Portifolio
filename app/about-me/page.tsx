@@ -9,18 +9,6 @@ import { DOMAIN } from "@lib/globals";
 
 import profilePic from "../../public/me.jpg";
 
-
-export const metadata = {
-  title: "Sobre mim",
-  openGraph: {
-    title: "Sobre mim",
-    url: `${DOMAIN}/sobre-mim`,
-  },
-  alternates: {
-    canonical: `${DOMAIN}/sobre-mim`,
-  },
-};
-
 export default function SobreMim() {
   return (
     <AnimatePresence mode="wait">

@@ -9,18 +9,6 @@ import { ProjectProps } from "@lib/types";
 
 import projects from "../../public/projects/list.json";
 
-export const metadata = {
-  title: "Projetos",
-  description: "Meu portifolio.",
-  openGraph: {
-    title: "Projetos",
-    url: `${DOMAIN}/Projetos`,
-  },
-  alternates: {
-    canonical: `${DOMAIN}/Projetos`,
-  },
-};
-
 export default function Projetos() {
   return (
     <AnimatePresence mode="wait">
