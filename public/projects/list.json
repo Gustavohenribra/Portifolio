@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CryptoTracker",
+    "summary": "Com uma interface intuitiva e fácil de usar, investidores e traders terão à disposição uma ferramenta poderosa para tomar decisões informadas. Uma plataforma com objetivo de se manter atualizado sobre o valor das principais criptomoedas.",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "TypeScript, React, Next.js, Tailwind CSS",
+    "url": "https://crypto-tracker-amber-three.vercel.app",
+    "image": "projects/cryptotracker.png",
+    "width": 1200,
+    "height": 668
+  },
+  {
+    "title": "RifaCoin",
+    "summary": "O site oferece uma interface dinâmica e responsiva, faça login, selecione a quantidade de rifas que deseja comprar, fazer o pagamento com a criptomoeda direto de sua wallet, o sorteio é realizado com um clique e a transferência da pool prize é feita a partir de um clique para a conta do vencedor.",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "React, Solidity, TypeScript, Tailwind CSS, Thirdweb",
+    "url": "https://rifa-coin.vercel.app",
+    "image": "projects/rifacoin.png",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "title": "Autenticador",
+    "summary": "Utilizando o Next-Auth, foi criado um sistema de login e registro na qual podemos estar entrando com uma conta registrada ou utilizando o Google e/ou GitHub para fazer login. Após o login, é direcionado para um conjunto de paginas que só se tem acesso com as credenciais, disponibilizando uma pagina inicial e uma a pagina de perfil. Se deslogar, o usuário perde acesso as paginas mencionadas e tem que efetuar o login novamente.",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Next, React, TypeScript, Tailwind, MongoDB/Mongoose, Formik e Bcryptjs",
+    "url": "https://autenticador.vercel.app/login",
+    "image": "projects/autenticador.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "title": "Buscador de Usuario no GitHub",
+    "summary": "Aplicativo que utiliza a API do GitHub para buscar usuarios, apos a busca deixa evidente algumas informaçoes sobre o perfil e um link do mesmo contem uma interface responsiva com possibilidade de trocar o tema para escuro ou claro.",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "React, Tailwind CSS, Vite",
+    "url": "https://buscar-usuario-github-sandy.vercel.app",
+    "image": "projects/buscador.png",
+    "width": 1372,
+    "height": 496
+  },
+  {
+    "title": "PlaylistDownloader",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Axios, Node, Progress, Puppeter, Request",
+    "image": "projects/spotifydw.png",
+    "summary": "Aplicaçao que realiza download de playlists no Spotify sem o uso de API, a uma certa taxa de erro de aproximadamente 5%, na qual pode acabar nao baixando a musica errada.",
+    "url": "",
+    "width": 2126,
+    "height": 1222
+  },
+  {
+    "title": "Aplicativo para Barbearia",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Styled Components, React Native e outras bibliotecas do React",
+    "image": "projects/construcao.jpg",
+    "summary": "Projeto em desenvolvimento para a barbearia Los Amigos.",
+    "url": "",
+    "width": 1372,
+    "height": 496
+  }
+]
