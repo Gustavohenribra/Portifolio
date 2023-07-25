@@ -44,7 +44,7 @@
     "projRole": "Criador e desenvolvedor",
     "tools": "Axios, Node, Progress, Puppeter, Request",
     "image": "projects/spotifydw.png",
-    "summary": "Aplicaçao que realiza download de playlists no Spotify sem o uso de API, a uma certa taxa de erro de aproximadamente 5%, na qual pode acabar nao baixando a musica errada.",
+    "summary": "Aplicaçao que realiza download de playlists no Spotify sem o uso de API, a uma certa taxa de erro de aproximadamente 5%, na qual pode acabar baixando a musica errada da playlist.",
     "url": "",
     "width": 2126,
     "height": 1222
