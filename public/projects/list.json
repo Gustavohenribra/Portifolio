@@ -50,6 +50,16 @@
     "height": 1222
   },
   {
+    "title": "Editor de Texto",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Python, PyQt5",
+    "image": "projects/editor_py.png",
+    "summary": "Editor de texto simples, com interface descomplicada, podemos copiar e colar qualquer texto para editar e por fim salvar o arquivo como PDF",
+    "url": "",
+    "width": 1372,
+    "height": 496
+  },
+  {
     "title": "Aplicativo para Barbearia",
     "projRole": "Criador e desenvolvedor",
     "tools": "Styled Components, React Native e outras bibliotecas do React",

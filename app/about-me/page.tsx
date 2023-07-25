@@ -5,7 +5,6 @@ import Image from "next/image";
 import Certificados from "@components/cft";
 import Footer from "@components/Footer";
 import ArrowIcon from "@components/icons/ArrowIcon";
-import { DOMAIN } from "@lib/globals";
 
 import profilePic from "../../public/me.jpg";
 
