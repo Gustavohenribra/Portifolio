@@ -60,6 +60,16 @@
     "height": 496
   },
   {
+    "title": "Manipulaçao de dados com Panda e OpenAI",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Python, Streamlit, Pandas, Dotenv, LangChain",
+    "image": "projects/chatbot.png",
+    "summary": "Aplicativo criado utilizando Python Streamlit, projetado para fornecer uma interface amigável para consulta e comunicação com dados de um arquivo CSV usando o modelo de linguagem OpenAI.",
+    "url": "",
+    "width": 1372,
+    "height": 496
+  },
+  {
     "title": "Aplicativo para Barbearia",
     "projRole": "Criador e desenvolvedor",
     "tools": "Styled Components, React Native e outras bibliotecas do React",
