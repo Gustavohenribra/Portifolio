@@ -55,7 +55,8 @@ export default function SobreMim() {
               <p className="mt-4 leading-relaxed">
                 Durante esse tempo, aprendi e consolidei muitos conhecimentos tanto
                 no Back End quanto no Front End, realizei projetos desafiadores que
-                me inspiraram mais a aprender tal como o RifaCoin, que sera descrito abaixo.
+                me inspiraram mais a aprender tal como o RifaCoin, na qual tive que
+                aprender a lidar com a blockchain.
               </p>
               <p className="mt-4  leading-relaxed ">
                 Me considero uma pessoa extrovertida, capaz de me comunicar com qualquer
