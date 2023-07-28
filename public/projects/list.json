@@ -60,7 +60,7 @@
     "height": 496
   },
   {
-    "title": "Manipulaçao de dados com Panda e OpenAI",
+    "title": "Mineraçao de dados com Panda e OpenAI",
     "projRole": "Criador e desenvolvedor",
     "tools": "Python, Streamlit, Pandas, Dotenv, LangChain",
     "image": "projects/chatbot.png",
