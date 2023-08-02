@@ -66,7 +66,7 @@ export default function SobreMim() {
               <p className="mt-4  leading-relaxed ">
                 Sou Brasileiro com raízes firmemente plantadas em terras mineiras.
                 Sou daqueles que nasceu com um pão de queijo debaixo do braço, uma paixão
-                por futebol e amente da tecnologia.
+                por futebol e amante da tecnologia.
                 
               </p>
             </div>
