@@ -65,7 +65,7 @@
     "tools": "Python, Streamlit, Pandas, Dotenv, LangChain",
     "image": "projects/chatbot.png",
     "summary": "Aplicativo criado utilizando Python Streamlit, projetado para fornecer uma interface amigável para consulta e comunicação com dados de um arquivo CSV usando o modelo de linguagem OpenAI.",
-    "url": "",
+    "url": "https://manipulacao-de-dados-a.streamlit.app",
     "width": 1372,
     "height": 496
   },
