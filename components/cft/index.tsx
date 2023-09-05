@@ -14,6 +14,7 @@ export default function Certificados() {
               <div className="flex-auto px-4 text-gray-700">
                 <div className="-ml-4 text-xl font-semibold">freeCodeCamp</div>
                 <ul className="mt-4 list-outside list-disc space-y-1">
+                  <li className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50"><a href="https://freecodecamp.org/certification/GustavoH/scientific-computing-with-python-v7">Scientific Computing with Python</a></li>
                   <li className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50"><a href="https://www.freecodecamp.org/certification/GustavoH/back-end-development-and-apis">Back End Development and APIs</a></li>
                   <li className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50"><a href="https://www.freecodecamp.org/certification/GustavoH/data-visualization">Data Visualization</a></li>
                   <li className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50"><a href="https://www.freecodecamp.org/certification/GustavoH/quality-assurance-v7">Quality Assurance</a></li>
