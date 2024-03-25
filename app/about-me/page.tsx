@@ -43,31 +43,32 @@ export default function SobreMim() {
           <div className="w-full text-gray-800 md:w-4/5 md:pr-12">
             <div className="md:pr-12">
               <p className="mt-4 leading-relaxed">
-                Ola! meu nome é Gustavo e sou um desenvolvedor Full Stack.
+                Ola! meu nome é Gustavo e sou um desenvolvedor Full Stack com 3 anos de experiência.
               </p>
               <p className="mt-4 leading-relaxed" />
               <p className="mt-4 leading-relaxed">
-                Sou apaixonado por programaçao, a curiosidade e funcionamento de cada
-                codigo, cada linha, sao oque me inspiram a produzir, venho estudando e  
-                trabalhando como freelancer a mais de 1 ano e meio, e recentemente 
-                iniciei na faculdade de Ciencias da Computaçao.
+              Atualmente estou cursando a faculdade de Ciências da Computação e sempre buscando novas oportunidades para crescer e contribuir com projetos inovadores.
               </p>
               <p className="mt-4 leading-relaxed">
-                Durante esse tempo, aprendi e consolidei muitos conhecimentos tanto
-                no Back End quanto no Front End, realizei projetos desafiadores que
-                me inspiraram mais a aprender tal como o RifaCoin, na qual tive que
-                aprender a lidar com a blockchain.
+              <p>Minhas principais habilidades técnicas são:</p>
+              <p>Node.js (3 anos de experiência)</p>
+              <p>TypeScript (2 anos de experiência)</p>
+              <p>JavaScript (3 anos de experiência)</p>
+              <p>React (2 anos de experiência)</p>
+              <p>MySQL (2 anos de experiência)</p>
+
               </p>
               <p className="mt-4  leading-relaxed ">
-                Me considero uma pessoa extrovertida, capaz de me comunicar com qualquer
-                um, que adora trabalhar em equipe e desenvolver ideias. Tenho uma afinidade 
-                natural pela análise e adoro enfrentar desafios complexos.
+              Sou uma pessoa que adora desenvolver ideias e enfrentar novos desafios. Estou animado para fazer parte de equipes que compartilham minha paixão pela tecnologia e criar soluções incríveis juntos.
               </p>
               <p className="mt-4  leading-relaxed ">
-                Sou Brasileiro com raízes firmemente plantadas em terras mineiras.
-                Sou daqueles que nasceu com um pão de queijo debaixo do braço, uma paixão
-                por futebol e amante da tecnologia.
-                
+              Você pode me encontrar em:
+
+              Instagram:https://www.instagram.com/gustavo_henr7/
+              GitHub: https://github.com/Gustavohenribra
+              Ou entre em contato comigo diretamente por e-mail: 
+
+              gustavohenriquebm7@outlook.com
               </p>
             </div>
           </div>

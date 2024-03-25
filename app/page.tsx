@@ -36,8 +36,8 @@ export default function Home() {
             Desenvolvedor Full Stack em Minas Gerais
           </h2>
           <p className="mt-1 text-gray-800 sm:text-lg">
-            Atualmente cursando Ciencias da Computaçao, trabalhando
-            de freelancer a mais de 1 ano, e desde sempre aprendendo.
+            Analista de Desenvolvimento de Sistemas na empresa sitcon, e desde sempre aprendendo.
+            Atualmente cursando Ciencias da Computaçao.
             Entre em contato comigo nas redes sociais, ou me mande
             um email diretamente.{" "}
           </p>
