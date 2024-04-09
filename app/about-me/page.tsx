@@ -43,7 +43,7 @@ export default function SobreMim() {
           <div className="w-full text-gray-800 md:w-4/5 md:pr-12">
             <div className="md:pr-12">
               <p className="mt-4 leading-relaxed">
-                Ola! meu nome é Gustavo e sou um desenvolvedor Full Stack com 3 anos de experiência.
+                Ola! meu nome é Gustavo e sou um desenvolvedor com 3 anos de experiência.
               </p>
               <p className="mt-4 leading-relaxed" />
               <p className="mt-4 leading-relaxed">
@@ -63,12 +63,10 @@ export default function SobreMim() {
               </p>
               <p className="mt-4  leading-relaxed ">
               Você pode me encontrar em:
-
-              Instagram:https://www.instagram.com/gustavo_henr7/
-              GitHub: https://github.com/Gustavohenribra
-              Ou entre em contato comigo diretamente por e-mail: 
-
-              gustavohenriquebm7@outlook.com
+              <br />
+              <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="https://www.instagram.com/gustavo_henr7/">Instagram</a><br />
+              <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="https://github.com/Gustavohenribra">GitHub</a><br />
+              Ou entre em contato comigo diretamente por <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="mailto:gustavohenriquebm7@outlook.com">E-mail</a>
               </p>
             </div>
           </div>

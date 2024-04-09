@@ -25,6 +25,7 @@ export default function Certificados() {
                 <div className="-ml-4 mt-4 text-xl font-semibold">Cruzeiro Do Sul</div>
                 <ul className="mt-4 list-outside list-disc space-y-1">
                 <li>Ciências Da Computação ( 2023 - 2027 )</li>
+                <li>Ciências Contábeis ( 2021 - 2025)</li>
                 </ul>
               </div>
             </div>

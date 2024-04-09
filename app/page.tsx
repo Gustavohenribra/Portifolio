@@ -33,11 +33,11 @@ export default function Home() {
             Gustavo Motta
           </h1>
           <h2 className="mb-2 text-gray-700 sm:text-lg">
-            Desenvolvedor Full Stack em Minas Gerais
+            Desenvolvedor Full Stack
           </h2>
           <p className="mt-1 text-gray-800 sm:text-lg">
-            Analista de Desenvolvimento de Sistemas na empresa sitcon, e desde sempre aprendendo.
-            Atualmente cursando Ciencias da Computaçao.
+            Analista de Desenvolvimento de Sistemas na empresa sitcon.<br/>
+            Atualmente cursando Ciencias da Computaçao.<br/>
             Entre em contato comigo nas redes sociais, ou me mande
             um email diretamente.{" "}
           </p>
