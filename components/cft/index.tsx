@@ -27,6 +27,8 @@ export default function Certificados() {
                 <li>Ciências Da Computação ( 2023 - 2027 )</li>
                 <li>Ciências Contábeis ( 2021 - 2025)</li>
                 </ul>
+                <div className="-ml-4 mt-4 text-xl font-semibold">Cursos Alura</div>
+                <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="https://cursos.alura.com.br/user/gustavo-sitcon-com-br/fullCertificate/9a317fffba1ad19ecf3744616bfb5cef">Clique aqui</a>
               </div>
             </div>
           </div>

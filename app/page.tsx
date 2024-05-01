@@ -36,8 +36,8 @@ export default function Home() {
             Desenvolvedor Full Stack
           </h2>
           <p className="mt-1 text-gray-800 sm:text-lg">
-            Analista de Desenvolvimento de Sistemas na empresa sitcon.<br/>
-            Atualmente cursando Ciencias da Computaçao.<br/>
+            Analista de Desenvolvimento de Sistemas.<br/>
+            Atualmente cursando Ciências da Computação.<br/>
             Entre em contato comigo nas redes sociais, ou me mande
             um email diretamente.{" "}
           </p>

@@ -66,6 +66,7 @@ export default function SobreMim() {
               <br />
               <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="https://www.instagram.com/gustavo_henr7/">Instagram</a><br />
               <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="https://github.com/Gustavohenribra">GitHub</a><br />
+              <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="https://www.linkedin.com/in/gustavo-motta-bb9112273/">Linkedin</a><br />
               Ou entre em contato comigo diretamente por <a className="text-blue-700 bg-gradient-to-r underline decoration-indigo-500/30 ease-in-out hover:opacity-50" href="mailto:gustavohenriquebm7@outlook.com">E-mail</a>
               </p>
             </div>
