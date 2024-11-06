@@ -1,81 +1,51 @@
 [
   {
-    "title": "CryptoTracker",
-    "summary": "Com uma interface intuitiva e fácil de usar, investidores e traders terão à disposição uma ferramenta poderosa para tomar decisões informadas. Uma plataforma com objetivo de se manter atualizado sobre o valor das principais criptomoedas.",
+    "title": "Banca Monopoly",
     "projRole": "Criador e desenvolvedor",
-    "tools": "TypeScript, React, Next.js, Tailwind CSS",
-    "url": "https://crypto-tracker-amber-three.vercel.app",
-    "image": "projects/cryptotracker.png",
-    "width": 1200,
-    "height": 668
-  },
-  {
-    "title": "RifaCoin",
-    "summary": "O site oferece uma interface dinâmica e responsiva, faça login, selecione a quantidade de rifas que deseja comprar, fazer o pagamento com a criptomoeda direto de sua wallet, o sorteio é realizado com um clique e a transferência da pool prize é feita a partir de um clique para a conta do vencedor.",
-    "projRole": "Criador e desenvolvedor",
-    "tools": "React, Solidity, TypeScript, Tailwind CSS, Thirdweb",
-    "url": "https://rifa-coin.vercel.app",
-    "image": "projects/rifacoin.png",
-    "width": 1200,
-    "height": 630
-  },
-  {
-    "title": "Autenticador",
-    "summary": "Utilizando o Next-Auth, foi criado um sistema de login e registro na qual podemos estar entrando com uma conta registrada ou utilizando o Google e/ou GitHub para fazer login. Após o login, é direcionado para um conjunto de paginas que só se tem acesso com as credenciais, disponibilizando uma pagina inicial e uma a pagina de perfil. Se deslogar, o usuário perde acesso as paginas mencionadas e tem que efetuar o login novamente.",
-    "projRole": "Criador e desenvolvedor",
-    "tools": "Next, React, TypeScript, Tailwind, MongoDB/Mongoose, Formik e Bcryptjs",
-    "url": "https://autenticador.vercel.app/login",
-    "image": "projects/autenticador.png",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "title": "Buscador de Usuario no GitHub",
-    "summary": "Aplicativo que utiliza a API do GitHub para buscar usuarios, apos a busca deixa evidente algumas informaçoes sobre o perfil e um link do mesmo contem uma interface responsiva com possibilidade de trocar o tema para escuro ou claro.",
-    "projRole": "Criador e desenvolvedor",
-    "tools": "React, Tailwind CSS, Vite",
-    "url": "https://buscar-usuario-github-sandy.vercel.app",
-    "image": "projects/buscador.png",
+    "tools": "Node, React, TypeScript, Vite",
+    "image": "projects/bancamonopoly.png",
+    "summary": "Projeto criado para uso pessoal, a intenção é facilitar o gerenciamento de capital no jogo Monopoly, cada pessoa acessa o servidor com seu proprio dispositivo, todos entram na mesma instância ou podem criar outra.",
+    "url": "https://contabilidademonopoly.online",
     "width": 1372,
     "height": 496
+  },
+  {
+    "title": "Machine learning - Futebol",
+    "projRole": "Desenvolvedor líder, com apoio de colaboradores",
+    "tools": "Python, TensorFlow, XGBoost",
+    "image": "projects/ml-futebol.png",
+    "summary": "Projeto criado para uso comercial, utilizando técnicas de machine learning e análise de dados aplicadas ao futebol para gerar predições de resultados e análises estatísticas.",
+    "url": "",
+    "width": 1372,
+    "height": 496
+  },
+  {
+    "title": "Jogo da Vida de Conway",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "C, Raylib",
+    "image": "projects/gameOfLife.gif",
+    "summary": "Experimento criado para aprendizado em C do Jogo da vida de Conway, que simula o movimento das celulas a partir de formulas matemáticas. Após uma configuração inicial, observe como ela evolui.",
+    "url": "",
+    "width": 2126,
+    "height": 1222
   },
   {
     "title": "PlaylistDownloader",
     "projRole": "Criador e desenvolvedor",
     "tools": "Axios, Node, Progress, Puppeter, Request",
     "image": "projects/spotifydw.png",
-    "summary": "Aplicaçao que realiza download de playlists no Spotify sem o uso de API, a uma certa taxa de erro de aproximadamente 5%, na qual pode acabar baixando a musica errada da playlist.",
+    "summary": "Aplicaçao que realiza download de playlists no Spotify sem o uso de API.",
     "url": "",
     "width": 2126,
     "height": 1222
-  },
-  {
-    "title": "Editor de Texto",
-    "projRole": "Criador e desenvolvedor",
-    "tools": "Python, PyQt5",
-    "image": "projects/editor_py.png",
-    "summary": "Editor de texto simples, com interface descomplicada, podemos copiar e colar qualquer texto para editar e por fim salvar o arquivo como PDF",
-    "url": "",
-    "width": 1372,
-    "height": 496
   },
   {
     "title": "Mineraçao de dados com Panda e OpenAI",
     "projRole": "Criador e desenvolvedor",
     "tools": "Python, Streamlit, Pandas, Dotenv, LangChain",
     "image": "projects/chatbot.png",
-    "summary": "Aplicativo criado utilizando Python Streamlit, projetado para fornecer uma interface amigável para consulta e comunicação com dados de um arquivo CSV usando o modelo de linguagem OpenAI.",
+    "summary": "Aplicativo criado utilizando Python Streamlit, projetado para fornecer uma interface para consulta e comunicação com dados de um arquivo CSV usando o modelo de linguagem OpenAI.",
     "url": "https://manipulacao-de-dados-a.streamlit.app",
-    "width": 1372,
-    "height": 496
-  },
-  {
-    "title": "Aplicativo para Barbearia",
-    "projRole": "Criador e desenvolvedor",
-    "tools": "Styled Components, React Native e outras bibliotecas do React",
-    "image": "projects/construcao.jpg",
-    "summary": "Projeto em desenvolvimento para a barbearia Los Amigos.",
-    "url": "",
     "width": 1372,
     "height": 496
   }
