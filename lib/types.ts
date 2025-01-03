@@ -64,4 +64,5 @@ export type ProjectProps = {
   summary: string;
   awards?: string;
   tools?: string;
+  type?: string;
 };

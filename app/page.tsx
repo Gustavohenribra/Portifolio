@@ -33,10 +33,10 @@ export default function Home() {
             Gustavo Motta
           </h1>
           <h2 className="mb-2 text-gray-700 sm:text-lg">
-            Desenvolvedor Full Stack
+            Desenvolvedor Back end
           </h2>
           <p className="mt-1 text-gray-800 sm:text-lg">
-            Desenvolvedor de Sistemas.<br/>
+            Programador de Sistemas e API's.<br/>
             Atualmente cursando Ciências da Computação e Ciências Contábeis.<br/>
             Entre em contato comigo nas redes sociais, ou me mande
             um email diretamente.{" "}

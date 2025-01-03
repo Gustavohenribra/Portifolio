@@ -1,5 +1,38 @@
 [
   {
+    "title": "API de Pagamentos com Stripe",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Node, TypeScript, Express, Stripe SDK, Jest",
+    "image": "projects/api.png",
+    "summary": "Este projeto é uma API desenvolvida para gerenciar assinaturas e pagamentos utilizando a plataforma Stripe.",
+    "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+    "width": 1372,
+    "height": 496,
+    "type": "api"
+  },
+  {
+    "title": "API de machine learning",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Python, fastapi, scikit-learn, pandas, joblib, uvicorn, numpy, pytest",
+    "image": "projects/api.png",
+    "summary": "Projeto de estudo feito em FastAPI, que permite fazer upload de datasets, treinar modelos de Machine Learning e realizar predições",
+    "url": "https://github.com/Gustavohenribra/machine-learning-api",
+    "width": 1372,
+    "height": 496,
+    "type": "api"
+  },
+  {
+    "title": "API de blockchain",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Node, Express, TypeScript, Jest",
+    "image": "projects/api.png",
+    "summary": "Esse projeto é uma API minimalista construída em TypeScript que simula um blockchain básico para aprendizado e demonstração.",
+    "url": "https://github.com/Gustavohenribra/blockchain-api",
+    "width": 1372,
+    "height": 496,
+    "type": "api"
+  },
+  {
     "title": "Banca Monopoly",
     "projRole": "Criador e desenvolvedor",
     "tools": "Node, React, TypeScript, Vite",
@@ -7,7 +40,8 @@
     "summary": "Projeto criado para uso pessoal, a intenção é facilitar o gerenciamento de capital no jogo Monopoly, cada pessoa acessa o servidor com seu proprio dispositivo, todos entram na mesma instância ou podem criar outra.",
     "url": "https://contabilidademonopoly.online",
     "width": 1372,
-    "height": 496
+    "height": 496,
+    "type": "project"
   },
   {
     "title": "Machine learning - Futebol",
@@ -17,7 +51,8 @@
     "summary": "Projeto criado para uso comercial, utilizando técnicas de machine learning e análise de dados aplicadas ao futebol para gerar predições de resultados e análises estatísticas.",
     "url": "",
     "width": 1372,
-    "height": 496
+    "height": 496,
+    "type": "project"
   },
   {
     "title": "Jogo da Vida de Conway",
@@ -27,7 +62,8 @@
     "summary": "Experimento criado para aprendizado em C do Jogo da vida de Conway, que simula o movimento das celulas a partir de formulas matemáticas. Após uma configuração inicial, observe como ela evolui.",
     "url": "",
     "width": 2126,
-    "height": 1222
+    "height": 1222,
+    "type": "project"
   },
   {
     "title": "PlaylistDownloader",
@@ -37,7 +73,8 @@
     "summary": "Aplicaçao que realiza download de playlists no Spotify sem o uso de API.",
     "url": "",
     "width": 2126,
-    "height": 1222
+    "height": 1222,
+    "type": "project"
   },
   {
     "title": "Mineraçao de dados com Panda e OpenAI",
@@ -47,6 +84,7 @@
     "summary": "Aplicativo criado utilizando Python Streamlit, projetado para fornecer uma interface para consulta e comunicação com dados de um arquivo CSV usando o modelo de linguagem OpenAI.",
     "url": "https://manipulacao-de-dados-a.streamlit.app",
     "width": 1372,
-    "height": 496
+    "height": 496,
+    "type": "project"
   }
 ]
