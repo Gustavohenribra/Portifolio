@@ -47,22 +47,22 @@ export default function SobreMim() {
                                     </p>
                                     <p className="mt-4 leading-relaxed" />
                                     <p className="mt-4 leading-relaxed">
-                                        Atualmente, estou cursando as faculdades de Ciências da Computação e Ciências Contábeis.
+                                        Atualmente, estou cursando as faculdades de Ciência da Computação e Ciências Contábeis.
                                     </p>
                                     <p className="mt-4 leading-relaxed">Tenho grande interesse por cálculos, matemática em geral, além de computadores e tecnologia. Desde 2021 estou participando em grandes projetos e contribuindo para o desenvolvimento e implementação.
                                     </p>
                                     <p className="mt-4 leading-relaxed">
                                         <p>Durante esse périodo, tive contato com diversas stacks de desenvolvimento de API's, web e de desenvolvimento de software geral, entre elas as principais foram:</p>
                                         <div className="grid grid-cols-3 gap-4 max-w-4xl mt-4">
-                                            <div className="bg-gray-200 p-2 text-center">Node</div>
-                                            <div className="bg-gray-200 p-2 text-center">React</div>
-                                            <div className="bg-gray-200 p-2 text-center">TypeScript</div>
-                                            <div className="bg-gray-200 p-2 text-center">PHP</div>
-                                            <div className="bg-gray-200 p-2 text-center">Python</div>
-                                            <div className="bg-gray-200 p-2 text-center">Lisp</div>
-                                            <div className="bg-gray-200 p-2 text-center">C</div>
-                                            <div className="bg-gray-200 p-2 text-center">C++</div>
-                                            <div className="bg-gray-200 p-2 text-center">SQL</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">Node</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">React</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">TypeScript</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">PHP</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">Python</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">Lisp</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">C</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">C++</div>
+                                            <div className="bg-gray-200 p-2 text-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">SQL</div>
                                         </div>
                                     </p>
                                     <p className="mt-4  leading-relaxed ">
