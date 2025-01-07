@@ -37,7 +37,7 @@ export default function Projetos() {
               </div>
               {projects
                 .filter((project) => project.type === type)
-                .map((project: ProjectProps) => (
+                .map((project: ProjectProps, index: number) => (
                   <div className="flex flex-wrap mb-6" key={project.title}>
                     {project.image && (
                       <div className="mb-2 w-full pt-4 md:pt-0">
@@ -59,7 +59,7 @@ export default function Projetos() {
                     <div>
                       <div className="md:pr-12">
                         <div className="text-xl font-semibold md:text-3xl">
-                          {project.title}
+                          {index + 1}. {project.title}
                         </div>
                         <p className="mt-1 text-gray-800">{project.summary}</p>
                         <div className="mt-3 leading-relaxed text-gray-800">

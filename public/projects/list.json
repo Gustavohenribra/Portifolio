@@ -1,5 +1,16 @@
 [
   {
+    "title": "API de Otimização de rota",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Node, TypeScript, Express, Google Maps API",
+    "image": "projects/api.png",
+    "summary": "Uma API desenvolvida para fornecer rotas otimizadas, cálculo de custos de combustível e informações de condições de tráfego em tempo real.",
+    "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+    "width": 1372,
+    "height": 496,
+    "type": "api"
+  },
+  {
     "title": "API de Pagamentos com Stripe",
     "projRole": "Criador e desenvolvedor",
     "tools": "Node, TypeScript, Express, Stripe SDK, Jest",
