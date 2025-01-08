@@ -5,7 +5,7 @@
   "tools": "TypeScript, NestJS, TypeORM e SQLite",
   "image": "projects/api.png",
   "summary": "Esta API oferece funcionalidades para gerenciar usuários, projetos e ações associadas, como adicionar membros, remover membros e gerar relatórios.",
-  "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+  "url": "https://github.com/Gustavohenribra/project-management-api",
   "width": 1372,
   "height": 496,
   "type": "api"
@@ -16,7 +16,7 @@
     "tools": "Node, TypeScript, Express, OpenAI API",
     "image": "projects/api.png",
     "summary": "API RESTful que gera conteúdos criativos, como histórias, personagens, diálogos e reviravoltas na trama, utilizando o modelo GPT da OpenAI.",
-    "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+    "url": "https://github.com/Gustavohenribra/creative-story-api",
     "width": 1372,
     "height": 496,
     "type": "api"
@@ -27,7 +27,7 @@
     "tools": "Node, TypeScript, Express, Google Maps API",
     "image": "projects/api.png",
     "summary": "Uma API desenvolvida para fornecer rotas otimizadas, cálculo de custos de combustível e informações de condições de tráfego em tempo real.",
-    "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+    "url": "https://github.com/Gustavohenribra/route-optmizer-api",
     "width": 1372,
     "height": 496,
     "type": "api"
