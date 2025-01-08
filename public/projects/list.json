@@ -1,5 +1,27 @@
 [
   {
+  "title": "API de Gerenciamento de Projetos",
+  "projRole": "Criador e desenvolvedor",
+  "tools": "TypeScript, NestJS, TypeORM e SQLite",
+  "image": "projects/api.png",
+  "summary": "Esta API oferece funcionalidades para gerenciar usuários, projetos e ações associadas, como adicionar membros, remover membros e gerar relatórios.",
+  "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+  "width": 1372,
+  "height": 496,
+  "type": "api"
+  },
+  {
+    "title": "API Criativa de Histórias",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Node, TypeScript, Express, OpenAI API",
+    "image": "projects/api.png",
+    "summary": "API RESTful que gera conteúdos criativos, como histórias, personagens, diálogos e reviravoltas na trama, utilizando o modelo GPT da OpenAI.",
+    "url": "https://github.com/Gustavohenribra/api-stripe-generic",
+    "width": 1372,
+    "height": 496,
+    "type": "api"
+  },
+  {
     "title": "API de Otimização de rota",
     "projRole": "Criador e desenvolvedor",
     "tools": "Node, TypeScript, Express, Google Maps API",
