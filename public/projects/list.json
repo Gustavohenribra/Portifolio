@@ -11,6 +11,17 @@
   "type": "api"
   },
   {
+    "title": "API de Gerenciamento Financeiro",
+    "projRole": "Criador e desenvolvedor",
+    "tools": "Node, TypeScript, Express, OpenAI API",
+    "image": "projects/api.png",
+    "summary": "Este é um projeto de API para gerenciamento financeiro pessoal e de grupos.",
+    "url": "https://github.com/Gustavohenribra/finances-api",
+    "width": 1372,
+    "height": 496,
+    "type": "api"
+  },
+  {
     "title": "API Criativa de Histórias",
     "projRole": "Criador e desenvolvedor",
     "tools": "Node, TypeScript, Express, OpenAI API",
